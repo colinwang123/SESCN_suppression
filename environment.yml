@@ -1,0 +1,16 @@
+name: 
+channels:
+  - defaults
+dependencies:  
+  - python=3.7.9
+  - spyder=4.2.5
+  - spyder-kernels=1.10.2
+  - pip:
+      - h5py==3.1.0
+      - keras==2.6.0      
+      - matplotlib==3.5.3
+      - numpy==1.19.5      
+      - scipy==1.7.3      
+      - tensorboard==2.11.2      
+      - tensorflow-gpu==2.6.0
+      
